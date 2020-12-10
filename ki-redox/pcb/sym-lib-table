@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name redox_rev1-rescue)(type Legacy)(uri ${KIPRJMOD}/redox_rev1-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name ki-redox-cache)(type Legacy)(uri ${KIPRJMOD}/ki-redox-cache.lib)(options "")(descr ""))
+  (lib (name ki-redox-rescue)(type Legacy)(uri ${KIPRJMOD}/ki-redox-rescue.lib)(options "")(descr ""))
+)
